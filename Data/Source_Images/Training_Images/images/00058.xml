@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>00058.jpg</filename>
+    <path>Annotation_Adventices-PascalVOC-export/Annotations/00058.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4896</width>
+        <height>2752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1840.6015037593984</xmin>
+        <ymin>115.2658862876254</ymin>
+        <xmax>3101.4135338345864</xmax>
+        <ymax>1159.921404682274</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1688.751879699248</xmin>
+        <ymin>1270.3695652173913</ymin>
+        <xmax>3391.308270676692</xmax>
+        <ymax>2453.0852842809363</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>492.3609022556391</xmin>
+        <ymin>37.031772575250834</ymin>
+        <xmax>1003.1278195488721</xmax>
+        <ymax>616.8846153846152</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4403.639097744361</xmin>
+        <ymin>1716.7642140468226</ymin>
+        <xmax>4896</xmax>
+        <ymax>2503.707357859532</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>251.07692307692307</xmin>
+        <ymin>767.5877192982456</ymin>
+        <xmax>564.9230769230769</xmax>
+        <ymax>1008.9912280701753</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>526.2958579881656</xmin>
+        <ymin>2013.2298245614036</ymin>
+        <xmax>931.8816568047337</xmax>
+        <ymax>2679.50350877193</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3582.6745562130177</xmin>
+        <ymin>1535.2508771929824</ymin>
+        <xmax>4065.5147928994083</xmax>
+        <ymax>1974.6052631578948</ymax>
+    </bndbox>
+</object>
+</annotation>

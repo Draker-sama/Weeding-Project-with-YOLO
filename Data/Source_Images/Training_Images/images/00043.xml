@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>00043.jpg</filename>
+    <path>Annotation_Adventices-PascalVOC-export/Annotations/00043.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4896</width>
+        <height>2752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1569.1127819548872</xmin>
+        <ymin>1224.3494983277592</ymin>
+        <xmax>3156.6315789473683</xmax>
+        <ymax>2752</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1720.9624060150377</xmin>
+        <ymin>294.7441471571906</ymin>
+        <xmax>2834.5263157894738</xmax>
+        <ymax>1077.0852842809363</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>791.4586466165414</xmin>
+        <ymin>695.1187290969899</ymin>
+        <xmax>1293.0225563909776</xmax>
+        <ymax>1454.4498327759197</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>129.07190635451505</ymin>
+        <xmax>170.25563909774436</xmax>
+        <ymax>299.3461538461538</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>984.7218045112782</xmin>
+        <ymin>2094.128762541806</ymin>
+        <xmax>1283.8195488721803</xmax>
+        <ymax>2361.045150501672</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>639.609022556391</xmin>
+        <ymin>2384.055183946488</ymin>
+        <xmax>911.0977443609022</xmax>
+        <ymax>2609.553511705685</ymax>
+    </bndbox>
+</object>
+</annotation>

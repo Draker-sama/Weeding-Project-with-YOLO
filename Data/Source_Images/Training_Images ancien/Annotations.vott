@@ -1,0 +1,1233 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Training_Path",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDZhMzhhODhjMzNkM2M4ZjZiOGI5ODNlMTljMjQ4Y2I0ODgwY2ZhNThlYjdlMzE2YzlhNGRkZjQ3MjdmM2Q5NzRhZDA2N2Q5NWNiOGM4NzM0YmE0ZDZlOGJmNWJmOTYwY2QzYTBiMTIzYjMzYmUwMjEyZTA1ODFmMWJiZTY3Y2I2NjU5MDI4ZTEzNDVhOGUwZGMxYzlmMTBjYjQ4ZTI2MjA3MmU1MmQ2MzJiMDhhMjVmNTZmYWQxMTAwMDczMDdmIiwiaXYiOiI2MzRhMzAzODY3ZWYxMTU5NDc0ZTRmODFhYTRjODRkMGMyMTU4N2JkYzc1YjRhZmIifQ=="
+        },
+        "id": "3IjKP1-2I"
+    },
+    "targetConnection": {
+        "name": "Training_Path",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMGU0MzYzNWEzMzgyMTQ3ZDcwODU2M2VlODE5YjEzNzE0MzgyZjY1YmYwYTljNjUxNTNhNWU5YTRmMWVkZjJhMjY1NGVhOWQ1NWFmOThiNjFkMDhiNDdkYmJkOWI0ZGZhZThiOTYwOGQ1MGZhNDA4ZmUzNzAyZDM5ZmQyNDE2OWFiYmQzMGIwOWJiZDY5OGNhNzIxYmFhODAyYzRmZDRhNmI1OWE3MTAwNzE4NjEzYmY5NzZjZjExYjc0NWM2OGRiIiwiaXYiOiIyY2MzYmQwYzRhYmU1MzgwNWUzYzY3MWMzZjgxZDNkZDQwMGM4MTE2Y2I2ZGFkN2EifQ=="
+        },
+        "id": "3IjKP1-2I"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Lavandin",
+            "color": "#5db300"
+        }
+    ],
+    "id": "GqDU8HTFV",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTRlYjA0ODIzYWU5OGQwMzg0MjBmN2NjNTEwZDQyYTBiZjg4YzIyNGRiODc4ZDBkMzRiN2I3OGFmNjE3ZDUxOGI2Y2IwYmRkZDViYmFiY2Q0MGFkZjkxMjgwYzA3ZjMzIiwiaXYiOiI1ZDFjNTNmZWJlZDE2ZjI2NTBmZDg0ODVhNzQwNTc2OTVkMTBlZGEwNWE0ODQzNWUifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "abd0dcbb86c4449ffbb90a782fe473eb",
+    "assets": {
+        "a97ced323268233bab79ba2f7b26e6da": {
+            "format": "jpg",
+            "id": "a97ced323268233bab79ba2f7b26e6da",
+            "name": "2Q__%2520(1).jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2Q__%2520(1).jpg",
+            "size": {
+                "width": 288,
+                "height": 175
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bc3d40b5174818921b857032736b98e3": {
+            "format": "JPG",
+            "id": "bc3d40b5174818921b857032736b98e3",
+            "name": "P1040118.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040118.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a55ddb68f5e56cb78a7f5a1ebc8b8b18": {
+            "format": "JPG",
+            "id": "a55ddb68f5e56cb78a7f5a1ebc8b8b18",
+            "name": "P1040119.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040119.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b7ac9273bc06abb55a49451031cf347": {
+            "format": "JPG",
+            "id": "8b7ac9273bc06abb55a49451031cf347",
+            "name": "P1040120.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040120.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f17ac04bf5fb4faaa94542a548abf551": {
+            "format": "JPG",
+            "id": "f17ac04bf5fb4faaa94542a548abf551",
+            "name": "P1040121.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040121.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "198f6ef892090296036e78161c92ef3a": {
+            "format": "JPG",
+            "id": "198f6ef892090296036e78161c92ef3a",
+            "name": "P1040122.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040122.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cef83ef2130ebdca0134388cd1d2708": {
+            "format": "JPG",
+            "id": "7cef83ef2130ebdca0134388cd1d2708",
+            "name": "P1040123.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040123.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f03f7a43b939e7ad666e10614840c5ee": {
+            "format": "JPG",
+            "id": "f03f7a43b939e7ad666e10614840c5ee",
+            "name": "P1040124.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040124.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af1ce83c8ef172c25e0e89236c806323": {
+            "format": "JPG",
+            "id": "af1ce83c8ef172c25e0e89236c806323",
+            "name": "P1040125.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040125.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c882756cc23dd4fb49629c9f41b708eb": {
+            "format": "JPG",
+            "id": "c882756cc23dd4fb49629c9f41b708eb",
+            "name": "P1040126.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040126.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef84d1be62599e2d919b397217e29065": {
+            "format": "JPG",
+            "id": "ef84d1be62599e2d919b397217e29065",
+            "name": "P1040127.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040127.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42b776c28d5cf7844b3ff0e4c2f4e528": {
+            "format": "JPG",
+            "id": "42b776c28d5cf7844b3ff0e4c2f4e528",
+            "name": "P1040128.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040128.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65332b5e257664b78230849737fad2cd": {
+            "format": "JPG",
+            "id": "65332b5e257664b78230849737fad2cd",
+            "name": "P1040129.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040129.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fda3eb510ae96c6f99740ed80c6caefc": {
+            "format": "JPG",
+            "id": "fda3eb510ae96c6f99740ed80c6caefc",
+            "name": "P1040130.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040130.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef305425ef0196a734c52c76696573a1": {
+            "format": "JPG",
+            "id": "ef305425ef0196a734c52c76696573a1",
+            "name": "P1040131.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040131.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "883d610b204f60b3dd7093e0d7c2c8e5": {
+            "format": "JPG",
+            "id": "883d610b204f60b3dd7093e0d7c2c8e5",
+            "name": "P1040132.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040132.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee248ca78598fc7789287df50cb33bcd": {
+            "format": "JPG",
+            "id": "ee248ca78598fc7789287df50cb33bcd",
+            "name": "P1040133.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040133.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0aca03b511446bd482e04ec56e9407e3": {
+            "format": "JPG",
+            "id": "0aca03b511446bd482e04ec56e9407e3",
+            "name": "P1040134.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040134.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90b80fe3b1f34a99bba28ca0897c2a07": {
+            "format": "JPG",
+            "id": "90b80fe3b1f34a99bba28ca0897c2a07",
+            "name": "P1040135.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040135.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76fc7a8711175a9b8411ae02af865ba4": {
+            "format": "JPG",
+            "id": "76fc7a8711175a9b8411ae02af865ba4",
+            "name": "P1040136.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040136.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cc6aedb084a18db126fc0890b9e376ef": {
+            "format": "JPG",
+            "id": "cc6aedb084a18db126fc0890b9e376ef",
+            "name": "P1040137.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040137.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd1472c8ddd69ea5c85e45e6844c1f16": {
+            "format": "JPG",
+            "id": "dd1472c8ddd69ea5c85e45e6844c1f16",
+            "name": "P1040138.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040138.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d365585b9475b4cdcf2bbd14d267fa4": {
+            "format": "JPG",
+            "id": "0d365585b9475b4cdcf2bbd14d267fa4",
+            "name": "P1040305.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040305.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16389bfd52f3d43f28756f499df11b57": {
+            "format": "JPG",
+            "id": "16389bfd52f3d43f28756f499df11b57",
+            "name": "P1040306.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040306.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a0044b1137858a67102597c41f2c5cc": {
+            "format": "JPG",
+            "id": "1a0044b1137858a67102597c41f2c5cc",
+            "name": "P1040307.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040307.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "682c480b357c2aa6c0da496ce6201c9e": {
+            "format": "JPG",
+            "id": "682c480b357c2aa6c0da496ce6201c9e",
+            "name": "P1040308.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040308.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee6a91ba2a79218dc7608bef12c6830d": {
+            "format": "JPG",
+            "id": "ee6a91ba2a79218dc7608bef12c6830d",
+            "name": "P1040309.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040309.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "130d01f423b24d1f13219296782d8904": {
+            "format": "JPG",
+            "id": "130d01f423b24d1f13219296782d8904",
+            "name": "P1040310.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040310.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5372e8670f411ffb1324cca01c0640ea": {
+            "format": "JPG",
+            "id": "5372e8670f411ffb1324cca01c0640ea",
+            "name": "P1040311.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040311.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a25399426d95639b84adac4bc90385b": {
+            "format": "JPG",
+            "id": "4a25399426d95639b84adac4bc90385b",
+            "name": "P1040312.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040312.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcb270a1e7a27dd69aeef1d1a10b41c8": {
+            "format": "JPG",
+            "id": "dcb270a1e7a27dd69aeef1d1a10b41c8",
+            "name": "P1040313.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040313.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7ad1fd06cfb5ca83b480579ccac81f0": {
+            "format": "JPG",
+            "id": "d7ad1fd06cfb5ca83b480579ccac81f0",
+            "name": "P1040314.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040314.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "501f368a927a811c50de2dd514db2957": {
+            "format": "JPG",
+            "id": "501f368a927a811c50de2dd514db2957",
+            "name": "P1040315.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040315.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ef4ce250098e009ec76baf0c3a8938d": {
+            "format": "JPG",
+            "id": "7ef4ce250098e009ec76baf0c3a8938d",
+            "name": "P1040316.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040316.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37606e1360a0b3c22835396216983fee": {
+            "format": "JPG",
+            "id": "37606e1360a0b3c22835396216983fee",
+            "name": "P1040317.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040317.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "157b048aa7b1dcb7d61ce82ed0ae65d5": {
+            "format": "JPG",
+            "id": "157b048aa7b1dcb7d61ce82ed0ae65d5",
+            "name": "P1040318.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040318.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59454f2e93b4788865fc2425117d6d4d": {
+            "format": "JPG",
+            "id": "59454f2e93b4788865fc2425117d6d4d",
+            "name": "P1040319.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040319.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b94079bc236fdcc1bf4a10dd5c870be": {
+            "format": "JPG",
+            "id": "1b94079bc236fdcc1bf4a10dd5c870be",
+            "name": "P1040320.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040320.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28394a529d97519f475cc5fe213d272f": {
+            "format": "JPG",
+            "id": "28394a529d97519f475cc5fe213d272f",
+            "name": "P1040321.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040321.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6c69826e9c558a885aeb1028b01b6ae": {
+            "format": "JPG",
+            "id": "b6c69826e9c558a885aeb1028b01b6ae",
+            "name": "P1040322.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040322.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db5a2062dc7d2e117856aa0680d1a1cb": {
+            "format": "JPG",
+            "id": "db5a2062dc7d2e117856aa0680d1a1cb",
+            "name": "P1040323.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040323.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "483fb085a1954b3be8d3a6095768eae9": {
+            "format": "JPG",
+            "id": "483fb085a1954b3be8d3a6095768eae9",
+            "name": "P1040324.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040324.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67aa7089e47cb194b14fe510adbbff09": {
+            "format": "JPG",
+            "id": "67aa7089e47cb194b14fe510adbbff09",
+            "name": "P1040325.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040325.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "abd0dcbb86c4449ffbb90a782fe473eb": {
+            "format": "JPG",
+            "id": "abd0dcbb86c4449ffbb90a782fe473eb",
+            "name": "P1040326.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040326.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be600b3d375312a6f6910eebc78be63a": {
+            "format": "JPG",
+            "id": "be600b3d375312a6f6910eebc78be63a",
+            "name": "P1040327.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040327.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20443b1152d3c71dbc54f423a2d6303c": {
+            "format": "JPG",
+            "id": "20443b1152d3c71dbc54f423a2d6303c",
+            "name": "P1040328.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040328.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85994d7b8895804efdc62389ccf2e4c4": {
+            "format": "JPG",
+            "id": "85994d7b8895804efdc62389ccf2e4c4",
+            "name": "P1040329.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040329.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ea1ed86b43e26c81a0620dfd003bf22": {
+            "format": "JPG",
+            "id": "0ea1ed86b43e26c81a0620dfd003bf22",
+            "name": "P1040330.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040330.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a3565302e9b46f70098598e6870d2a7": {
+            "format": "JPG",
+            "id": "8a3565302e9b46f70098598e6870d2a7",
+            "name": "P1040331.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040331.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cd598b4d3d13c9cc7c72c874ef9cafe": {
+            "format": "JPG",
+            "id": "9cd598b4d3d13c9cc7c72c874ef9cafe",
+            "name": "P1040332.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040332.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f2eb67f99787a1674104180b0597983": {
+            "format": "JPG",
+            "id": "1f2eb67f99787a1674104180b0597983",
+            "name": "P1040409.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040409.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2988c1423b777dd7e73b014a8d06cea1": {
+            "format": "JPG",
+            "id": "2988c1423b777dd7e73b014a8d06cea1",
+            "name": "P1040410.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040410.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8dbd9755ffa6cdaa623d7b5acaff7aac": {
+            "format": "JPG",
+            "id": "8dbd9755ffa6cdaa623d7b5acaff7aac",
+            "name": "P1040411.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040411.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6742369b440e98695c0fdf24db83a91d": {
+            "format": "JPG",
+            "id": "6742369b440e98695c0fdf24db83a91d",
+            "name": "P1040412.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040412.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97d4cdf0f65b0968470ba68c1b80ac60": {
+            "format": "JPG",
+            "id": "97d4cdf0f65b0968470ba68c1b80ac60",
+            "name": "P1040413.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040413.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e57a43aad4fd8443258760a7c0d2cfe0": {
+            "format": "JPG",
+            "id": "e57a43aad4fd8443258760a7c0d2cfe0",
+            "name": "P1040414.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040414.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f096c9d6d6bd507ea01634ce4a81e24a": {
+            "format": "JPG",
+            "id": "f096c9d6d6bd507ea01634ce4a81e24a",
+            "name": "P1040415.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040415.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9acef136344519ca3c8555d6449829e": {
+            "format": "JPG",
+            "id": "b9acef136344519ca3c8555d6449829e",
+            "name": "P1040416.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040416.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40d3193ee932e60b49882c4a725f9535": {
+            "format": "JPG",
+            "id": "40d3193ee932e60b49882c4a725f9535",
+            "name": "P1040417.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040417.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4b88d8cb6c79ccc64ebd2c2a71fe87b": {
+            "format": "JPG",
+            "id": "f4b88d8cb6c79ccc64ebd2c2a71fe87b",
+            "name": "P1040418.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040418.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d15dc1b07af2927fbac1c3b2b7a15da": {
+            "format": "JPG",
+            "id": "0d15dc1b07af2927fbac1c3b2b7a15da",
+            "name": "P1040419.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040419.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f26e4e88f587f37019d39e34fea3b43": {
+            "format": "JPG",
+            "id": "2f26e4e88f587f37019d39e34fea3b43",
+            "name": "P1040420.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040420.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1f7bfd6bde7e0b7259e753944b8cd15": {
+            "format": "JPG",
+            "id": "c1f7bfd6bde7e0b7259e753944b8cd15",
+            "name": "P1040421.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040421.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63d5b3574028a5f6f889fd584663107c": {
+            "format": "JPG",
+            "id": "63d5b3574028a5f6f889fd584663107c",
+            "name": "P1040422.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040422.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c2cde15dc34c450b7a5fdac6ddd322f": {
+            "format": "JPG",
+            "id": "7c2cde15dc34c450b7a5fdac6ddd322f",
+            "name": "P1040423.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040423.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6eb5dd3d0ff93684615f66fcb9bb3f9b": {
+            "format": "JPG",
+            "id": "6eb5dd3d0ff93684615f66fcb9bb3f9b",
+            "name": "P1040424.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040424.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a6e738d63b22e577a45bed29885ebad8": {
+            "format": "JPG",
+            "id": "a6e738d63b22e577a45bed29885ebad8",
+            "name": "P1040425.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040425.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eef3d3b1e345b46cd4aca0480a788dde": {
+            "format": "JPG",
+            "id": "eef3d3b1e345b46cd4aca0480a788dde",
+            "name": "P1040629.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040629.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c026823ba8be51744b60f96a988a5cfc": {
+            "format": "JPG",
+            "id": "c026823ba8be51744b60f96a988a5cfc",
+            "name": "P1040630.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040630.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e8f1daebc9b27b7fc45c6804a92ad95c": {
+            "format": "JPG",
+            "id": "e8f1daebc9b27b7fc45c6804a92ad95c",
+            "name": "P1040631.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040631.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a64e7f35c3543e48b32dc4b646a7d59": {
+            "format": "JPG",
+            "id": "0a64e7f35c3543e48b32dc4b646a7d59",
+            "name": "P1040632.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040632.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85fd5c74a3d84889a16dc30971d85f54": {
+            "format": "JPG",
+            "id": "85fd5c74a3d84889a16dc30971d85f54",
+            "name": "P1040633.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040633.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0029618fd2c487f71e64a8c1152259f": {
+            "format": "JPG",
+            "id": "d0029618fd2c487f71e64a8c1152259f",
+            "name": "P1040634.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040634.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19160a5be3132dd88c60f9252e051859": {
+            "format": "JPG",
+            "id": "19160a5be3132dd88c60f9252e051859",
+            "name": "P1040635.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040635.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f6b1584a29e86fb702f70c05255eceb": {
+            "format": "JPG",
+            "id": "6f6b1584a29e86fb702f70c05255eceb",
+            "name": "P1040636.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040636.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c6eeefaa8ce59d42d3e633182fb1eae": {
+            "format": "JPG",
+            "id": "8c6eeefaa8ce59d42d3e633182fb1eae",
+            "name": "P1040637.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040637.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ff69bf5fc0c49582997b5cdbd859aed": {
+            "format": "JPG",
+            "id": "2ff69bf5fc0c49582997b5cdbd859aed",
+            "name": "P1040638.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040638.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac9e1b02a4af603783fb4451a1e62bae": {
+            "format": "JPG",
+            "id": "ac9e1b02a4af603783fb4451a1e62bae",
+            "name": "P1040639.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040639.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14917a55f26d6a15939dd9e4d8d6f579": {
+            "format": "JPG",
+            "id": "14917a55f26d6a15939dd9e4d8d6f579",
+            "name": "P1040640.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040640.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "565c97833195feded8719d382735327f": {
+            "format": "JPG",
+            "id": "565c97833195feded8719d382735327f",
+            "name": "P1040641.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040641.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3cc1d5df256ad9288b8a5aa403e16adc": {
+            "format": "JPG",
+            "id": "3cc1d5df256ad9288b8a5aa403e16adc",
+            "name": "P1040642.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040642.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c08c9cbcb7cad98e0c0fbec33f575d0": {
+            "format": "JPG",
+            "id": "7c08c9cbcb7cad98e0c0fbec33f575d0",
+            "name": "P1040643.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040643.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b584459b2c9747f987b8d7d7b888959a": {
+            "format": "JPG",
+            "id": "b584459b2c9747f987b8d7d7b888959a",
+            "name": "P1040678.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040678.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "edb97e7541f8cea009dfaa2211c5a7d0": {
+            "format": "JPG",
+            "id": "edb97e7541f8cea009dfaa2211c5a7d0",
+            "name": "P1040679.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040679.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e9c0e9546c5822a6ba97124dd12aaab": {
+            "format": "JPG",
+            "id": "4e9c0e9546c5822a6ba97124dd12aaab",
+            "name": "P1040680.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040680.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0bfd378d633948c0a7238aafeeb9fb02": {
+            "format": "JPG",
+            "id": "0bfd378d633948c0a7238aafeeb9fb02",
+            "name": "P1040681.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040681.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5aed4f88696547fc32f21e44e49fea7": {
+            "format": "JPG",
+            "id": "f5aed4f88696547fc32f21e44e49fea7",
+            "name": "P1040682.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040682.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2de5f9464b6d936525b1f38a4a3b4e0c": {
+            "format": "JPG",
+            "id": "2de5f9464b6d936525b1f38a4a3b4e0c",
+            "name": "P1040683.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040683.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bfb3177e935d318f40c68b6599ab3b1": {
+            "format": "JPG",
+            "id": "6bfb3177e935d318f40c68b6599ab3b1",
+            "name": "P1040684.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040684.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0323bedaee5a7c6030c1f52d9ddfdfa5": {
+            "format": "JPG",
+            "id": "0323bedaee5a7c6030c1f52d9ddfdfa5",
+            "name": "P1040685.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040685.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81a005666091bc76cc31eebc733b42d7": {
+            "format": "JPG",
+            "id": "81a005666091bc76cc31eebc733b42d7",
+            "name": "P1040686.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040686.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b5f490aa6464674d54cff71ebc7d6db": {
+            "format": "JPG",
+            "id": "2b5f490aa6464674d54cff71ebc7d6db",
+            "name": "P1040687.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040687.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bb9ad68ccfc41ddf3c7cdcc177e0735": {
+            "format": "JPG",
+            "id": "1bb9ad68ccfc41ddf3c7cdcc177e0735",
+            "name": "P1040688.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040688.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbd536be5eb883fee5f14bd57b90944e": {
+            "format": "JPG",
+            "id": "bbd536be5eb883fee5f14bd57b90944e",
+            "name": "P1040689.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040689.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "402707398a3ae3688ea5611143f5dd94": {
+            "format": "JPG",
+            "id": "402707398a3ae3688ea5611143f5dd94",
+            "name": "P1040690.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040690.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df276ee0174a975cf139b7f27086d87e": {
+            "format": "JPG",
+            "id": "df276ee0174a975cf139b7f27086d87e",
+            "name": "P1040691.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040691.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24c1bac6d706c047eddce512b464d629": {
+            "format": "JPG",
+            "id": "24c1bac6d706c047eddce512b464d629",
+            "name": "P1040692.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040692.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90143c06705d61b1fd080da199480571": {
+            "format": "JPG",
+            "id": "90143c06705d61b1fd080da199480571",
+            "name": "P1040693.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040693.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "634d412b2c0d295040d56e22bb0a8cea": {
+            "format": "JPG",
+            "id": "634d412b2c0d295040d56e22bb0a8cea",
+            "name": "P1040694.JPG",
+            "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040694.JPG",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

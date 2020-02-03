@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>00061.jpg</filename>
+    <path>Annotation_Adventices-PascalVOC-export/Annotations/00061.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4896</width>
+        <height>2752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1983.248120300752</xmin>
+        <ymin>230.31605351170566</ymin>
+        <xmax>3170.436090225564</xmax>
+        <ymax>952.8311036789296</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1693.3533834586467</xmin>
+        <ymin>1086.2892976588628</ymin>
+        <xmax>3395.9097744360906</xmax>
+        <ymax>2236.7909698996655</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1992.451127819549</xmin>
+        <ymin>2384.055183946488</ymin>
+        <xmax>3455.729323308271</xmax>
+        <ymax>2751.9999999999995</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3405.1127819548874</xmin>
+        <ymin>823.9749163879598</ymin>
+        <xmax>3787.0375939849628</xmax>
+        <ymax>1564.8979933110368</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4555.488721804511</xmin>
+        <ymin>0</ymin>
+        <xmax>4896</xmax>
+        <ymax>303.94816053511704</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "0bfd378d633948c0a7238aafeeb9fb02",
+        "name": "P1040681.JPG",
+        "path": "file:/home/draker/TrainYourOwnYOLO/Data/Source_Images/Training_Images/P1040681.JPG",
+        "size": {
+            "width": 4896,
+            "height": 2752
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_6pwf4k39",
+            "type": "RECTANGLE",
+            "tags": [
+                "Lavandin"
+            ],
+            "boundingBox": {
+                "height": 2338.13881748072,
+                "width": 2405.549132947977,
+                "left": 1386.728323699422,
+                "top": 413.75064267352184
+            },
+            "points": [
+                {
+                    "x": 1386.728323699422,
+                    "y": 413.75064267352184
+                },
+                {
+                    "x": 3792.2774566473986,
+                    "y": 413.75064267352184
+                },
+                {
+                    "x": 3792.2774566473986,
+                    "y": 2751.8894601542415
+                },
+                {
+                    "x": 1386.728323699422,
+                    "y": 2751.8894601542415
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

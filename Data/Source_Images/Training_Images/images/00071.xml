@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>00071.jpg</filename>
+    <path>Annotation_Adventices-PascalVOC-export/Annotations/00071.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4896</width>
+        <height>2752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1619.7293233082708</xmin>
+        <ymin>1247.359531772575</ymin>
+        <xmax>3013.9849624060153</xmax>
+        <ymax>2609.553511705685</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1771.578947368421</xmin>
+        <ymin>207.3060200668896</ymin>
+        <xmax>3073.8045112781956</xmax>
+        <ymax>1095.4933110367892</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>23.225752508361204</ymin>
+        <xmax>184.06015037593986</xmax>
+        <ymax>699.7207357859531</ymax>
+    </bndbox>
+</object><object>
+    <name>Lavandin</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4504.872180451128</xmin>
+        <ymin>14.021739130434781</ymin>
+        <xmax>4896</xmax>
+        <ymax>699.7207357859531</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>1560.2959866220735</ymin>
+        <xmax>409.5338345864662</xmax>
+        <ymax>1933.0585284280935</ymax>
+    </bndbox>
+</object><object>
+    <name>Adventices</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.804511278195488</xmin>
+        <ymin>1956.0685618729096</ymin>
+        <xmax>579.7894736842105</xmax>
+        <ymax>2706.195652173913</ymax>
+    </bndbox>
+</object>
+</annotation>
