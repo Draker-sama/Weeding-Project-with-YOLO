@@ -1,0 +1,1369 @@
+{
+    "name": "Annotation",
+    "securityToken": "Annotation_Adventices Token",
+    "sourceConnection": {
+        "name": "Source_images_non_modifiées",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGI2NmFmMzFkYWM5MWIwYzc3OTk3MjI0NDRiMGYxMDkzMGE0M2VhMjFhNmQ2NzgzZjk0MzliYTljOTYzYjY3OGMzZjljMGE4ZjI4NmU0ZmEwMGM5ZTQwNjkwOWFmMTk4NzgzZTRjN2JjNmNhYWU3NjY5ZDcwODBlZjFhZDJmMGQ2MDgzNDI0YTFjOTg4MGYyNmQ1MDVlNWZhYjgyZTk5NiIsIml2IjoiY2ZiNzdjOWNjYzRjZjQ5OGIxZjA5NzJkYmU2MTRlNTg2YTg3MzI1OTQ2MWYzMTZiIn0="
+        },
+        "id": "2pyNlfwJo"
+    },
+    "targetConnection": {
+        "name": "Folder_Annotation",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjNmNTQ0OWMxNDhkZGQyNWQwMTZiMjgyYWM1Mzk0ZDU4MWMxNjhiNjAzYWE4ZjMxMjI3MmY0ODBmNmZlZDIwYjZhMjgwZDNkNzEwNTY5Yjg4MzU2NTg2ZTJjNTllYzk4OGM4YmM3Mzg5ZGEyN2Q0ZWI3OTIyMjI4MmFlYzk3NGUiLCJpdiI6IjNhNjcxNjQ1YzU5N2RiZTBiOTRmMzE2Y2FiZTM1M2M5OWU1ZjYzNWY3MDgzYzNjNyJ9"
+        },
+        "id": "w6a6SFEU2"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Lavandin",
+            "color": "#5db300"
+        },
+        {
+            "name": "Adventices",
+            "color": "#e81123"
+        }
+    ],
+    "id": "Of1fPdNCy",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzMwYzlkMjA3Nzk3ZDQxODYwMjg4MDExNTg2N2EzN2E1ZDliY2FiOTJhNzZhOWI1YmY5OGFkMzYwYTExOGZlN2YwNTFiODgyYmY3MWM5Y2MzODI2MDNjOWRiNGJlZjM5IiwiaXYiOiI2ZGY1MTgzZmEzZTk1YzAzNDU5MTFlYTE2ZWMzMTBjNjYzNWFkYzFkNTg5ZjlkZWQifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "3aff36d7b381ad8d96a4df10235f00f6",
+    "assets": {
+        "dce15e5c77da016e23cb59b632a37775": {
+            "format": "jpg",
+            "id": "dce15e5c77da016e23cb59b632a37775",
+            "name": "00001.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00001.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8002c40826ae92cf2aa5b40e828da972": {
+            "format": "jpg",
+            "id": "8002c40826ae92cf2aa5b40e828da972",
+            "name": "00002.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00002.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a8a47bf0b73aeda6813d8858efdbf3f0": {
+            "format": "jpg",
+            "id": "a8a47bf0b73aeda6813d8858efdbf3f0",
+            "name": "00003.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00003.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "fbee94adffd39eb528945c54fc8579c1": {
+            "format": "jpg",
+            "id": "fbee94adffd39eb528945c54fc8579c1",
+            "name": "00004.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00004.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "32da8651c3fe10ca3bfa19f5cc8edaa6": {
+            "format": "jpg",
+            "id": "32da8651c3fe10ca3bfa19f5cc8edaa6",
+            "name": "00005.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00005.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f6e12f50b82f2f99b4495015bb4ec8b8": {
+            "format": "jpg",
+            "id": "f6e12f50b82f2f99b4495015bb4ec8b8",
+            "name": "00006.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00006.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e39b4b02d85c4fe51b95a5e508b831a6": {
+            "format": "jpg",
+            "id": "e39b4b02d85c4fe51b95a5e508b831a6",
+            "name": "00007.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00007.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "055687592ddac99861a5738423096de1": {
+            "format": "jpg",
+            "id": "055687592ddac99861a5738423096de1",
+            "name": "00008.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00008.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "03917b2c07eeb17452302ad9c182d602": {
+            "format": "jpg",
+            "id": "03917b2c07eeb17452302ad9c182d602",
+            "name": "00009.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00009.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e5f61c8c5b56a92c6b087af23d8dc0b0": {
+            "format": "jpg",
+            "id": "e5f61c8c5b56a92c6b087af23d8dc0b0",
+            "name": "00010.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00010.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5ec64cd497c1e763061adc2f97ddf9d8": {
+            "format": "jpg",
+            "id": "5ec64cd497c1e763061adc2f97ddf9d8",
+            "name": "00011.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00011.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c261b09bfe067bd717e9eb16480df033": {
+            "format": "jpg",
+            "id": "c261b09bfe067bd717e9eb16480df033",
+            "name": "00012.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00012.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "254b1df708bcdd9511609e2b958c5fa3": {
+            "format": "jpg",
+            "id": "254b1df708bcdd9511609e2b958c5fa3",
+            "name": "00013.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00013.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5114e1b8f04906485be231ab4b2121b6": {
+            "format": "jpg",
+            "id": "5114e1b8f04906485be231ab4b2121b6",
+            "name": "00014.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00014.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3bc801bca27c4af03397d4dd7371cc2c": {
+            "format": "jpg",
+            "id": "3bc801bca27c4af03397d4dd7371cc2c",
+            "name": "00015.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00015.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4a005ff7c7c1e30b13f1491945bf6470": {
+            "format": "jpg",
+            "id": "4a005ff7c7c1e30b13f1491945bf6470",
+            "name": "00016.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00016.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a61278cd1d3526379cd2aa7ee02f2128": {
+            "format": "jpg",
+            "id": "a61278cd1d3526379cd2aa7ee02f2128",
+            "name": "00017.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00017.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0cecc9380d1bb6c69e44ae0df26c589f": {
+            "format": "jpg",
+            "id": "0cecc9380d1bb6c69e44ae0df26c589f",
+            "name": "00018.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00018.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cfe6660b29848657fe138d46dcb39912": {
+            "format": "jpg",
+            "id": "cfe6660b29848657fe138d46dcb39912",
+            "name": "00019.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00019.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3675a32559ce28eb0229e8275bcebe6e": {
+            "format": "jpg",
+            "id": "3675a32559ce28eb0229e8275bcebe6e",
+            "name": "00020.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00020.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d60a13aafff4f1749a9b8e864c69755f": {
+            "format": "jpg",
+            "id": "d60a13aafff4f1749a9b8e864c69755f",
+            "name": "00021.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00021.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4cf5d9ac7a386539e65ea9751a83a250": {
+            "format": "jpg",
+            "id": "4cf5d9ac7a386539e65ea9751a83a250",
+            "name": "00022.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00022.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "61e7726abbcec88e58417a69e3d2590a": {
+            "format": "jpg",
+            "id": "61e7726abbcec88e58417a69e3d2590a",
+            "name": "00023.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00023.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f79eae81509090028bb24278c404d013": {
+            "format": "jpg",
+            "id": "f79eae81509090028bb24278c404d013",
+            "name": "00024.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00024.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7c4b2a014a37066e447df8e0af5acdd5": {
+            "format": "jpg",
+            "id": "7c4b2a014a37066e447df8e0af5acdd5",
+            "name": "00025.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00025.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0458542f081e38e4f0ed9628515fd164": {
+            "format": "jpg",
+            "id": "0458542f081e38e4f0ed9628515fd164",
+            "name": "00026.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00026.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1bf1633486bc8bcd24a32aeb2d1158c5": {
+            "format": "jpg",
+            "id": "1bf1633486bc8bcd24a32aeb2d1158c5",
+            "name": "00027.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00027.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "15da56b399e115b556fa45a9b18add60": {
+            "format": "jpg",
+            "id": "15da56b399e115b556fa45a9b18add60",
+            "name": "00028.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00028.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "364fce1ef9e01a929030af3963bdca8b": {
+            "format": "jpg",
+            "id": "364fce1ef9e01a929030af3963bdca8b",
+            "name": "00029.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00029.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2400406093801cdc156083f45b8446a3": {
+            "format": "jpg",
+            "id": "2400406093801cdc156083f45b8446a3",
+            "name": "00030.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00030.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "151767d20420f47b4ab85ae6fe3c1add": {
+            "format": "jpg",
+            "id": "151767d20420f47b4ab85ae6fe3c1add",
+            "name": "00031.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00031.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "edb3bd68ae236c965fedd16445dfa02d": {
+            "format": "jpg",
+            "id": "edb3bd68ae236c965fedd16445dfa02d",
+            "name": "00032.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00032.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "dde388faf9392a977a78d4c1393cf45c": {
+            "format": "jpg",
+            "id": "dde388faf9392a977a78d4c1393cf45c",
+            "name": "00033.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00033.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b865cd586d5d547d8107daaabe60d93d": {
+            "format": "jpg",
+            "id": "b865cd586d5d547d8107daaabe60d93d",
+            "name": "00034.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00034.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3c8ebddf27c87ebb3dfefdb36a849ee2": {
+            "format": "jpg",
+            "id": "3c8ebddf27c87ebb3dfefdb36a849ee2",
+            "name": "00035.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00035.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4cb86c27579f670a8ad0537ea55f83e3": {
+            "format": "jpg",
+            "id": "4cb86c27579f670a8ad0537ea55f83e3",
+            "name": "00036.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00036.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "209b05a919714769054f8ac906a28020": {
+            "format": "jpg",
+            "id": "209b05a919714769054f8ac906a28020",
+            "name": "00037.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00037.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1b4aacacdf61f5a2cbaf2de8528e9853": {
+            "format": "jpg",
+            "id": "1b4aacacdf61f5a2cbaf2de8528e9853",
+            "name": "00038.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00038.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "06f12aff562f414fc33946df66cbb9b1": {
+            "format": "jpg",
+            "id": "06f12aff562f414fc33946df66cbb9b1",
+            "name": "00039.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00039.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "01b1f7ce63113e2b819d8ad4b3610ab5": {
+            "format": "jpg",
+            "id": "01b1f7ce63113e2b819d8ad4b3610ab5",
+            "name": "00040.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00040.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b175f50732c92ef41566faaad5ac6fa7": {
+            "format": "jpg",
+            "id": "b175f50732c92ef41566faaad5ac6fa7",
+            "name": "00041.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00041.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "10d570df097f4e3db32694c93c798841": {
+            "format": "jpg",
+            "id": "10d570df097f4e3db32694c93c798841",
+            "name": "00042.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00042.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7027a8b76cc72466a73d4b5ee9422d68": {
+            "format": "jpg",
+            "id": "7027a8b76cc72466a73d4b5ee9422d68",
+            "name": "00043.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00043.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "dd978559ffac1a774488ca6953084cd3": {
+            "format": "jpg",
+            "id": "dd978559ffac1a774488ca6953084cd3",
+            "name": "00044.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00044.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e04f0412ed49a9d49e41e948d784baf9": {
+            "format": "jpg",
+            "id": "e04f0412ed49a9d49e41e948d784baf9",
+            "name": "00045.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00045.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "57e371eda64f3f190e1d3c9aee5b4e24": {
+            "format": "jpg",
+            "id": "57e371eda64f3f190e1d3c9aee5b4e24",
+            "name": "00046.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00046.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b70e4ea5f2b6365dd3cde4838ce78ae9": {
+            "format": "jpg",
+            "id": "b70e4ea5f2b6365dd3cde4838ce78ae9",
+            "name": "00047.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00047.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c5f03dfea9c1537bb218e9493661776c": {
+            "format": "jpg",
+            "id": "c5f03dfea9c1537bb218e9493661776c",
+            "name": "00048.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00048.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "fc8e0e6900db934d6c4869fe1f378234": {
+            "format": "jpg",
+            "id": "fc8e0e6900db934d6c4869fe1f378234",
+            "name": "00049.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00049.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "12c0a21ea270306e327f2cfdbd6bc41a": {
+            "format": "jpg",
+            "id": "12c0a21ea270306e327f2cfdbd6bc41a",
+            "name": "00050.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00050.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f95456ea59c6bc4a6de5ce11a2190637": {
+            "format": "jpg",
+            "id": "f95456ea59c6bc4a6de5ce11a2190637",
+            "name": "00051.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00051.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cb04945e516da0a4503c5da3c00535ad": {
+            "format": "jpg",
+            "id": "cb04945e516da0a4503c5da3c00535ad",
+            "name": "00052.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00052.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5d36fbc65e38744f2481230f421d5a13": {
+            "format": "jpg",
+            "id": "5d36fbc65e38744f2481230f421d5a13",
+            "name": "00053.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00053.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7589e0dbef782c35e7ca72f8b22bd46f": {
+            "format": "jpg",
+            "id": "7589e0dbef782c35e7ca72f8b22bd46f",
+            "name": "00054.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00054.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "feb5371fbd6fa8d0e0184d9574e2e206": {
+            "format": "jpg",
+            "id": "feb5371fbd6fa8d0e0184d9574e2e206",
+            "name": "00055.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00055.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "62877690fdf9c640a6c59d46d0ecb1c5": {
+            "format": "jpg",
+            "id": "62877690fdf9c640a6c59d46d0ecb1c5",
+            "name": "00056.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00056.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "459980751e63b56643e0bf516f43fac8": {
+            "format": "jpg",
+            "id": "459980751e63b56643e0bf516f43fac8",
+            "name": "00057.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00057.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6c3364131df75d97b04ab8d081586a8e": {
+            "format": "jpg",
+            "id": "6c3364131df75d97b04ab8d081586a8e",
+            "name": "00058.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00058.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "255563c5ce4493e2556e407ada38ce22": {
+            "format": "jpg",
+            "id": "255563c5ce4493e2556e407ada38ce22",
+            "name": "00059.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00059.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2d3443da113e60cc6432d653bf6bad61": {
+            "format": "jpg",
+            "id": "2d3443da113e60cc6432d653bf6bad61",
+            "name": "00060.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00060.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9de8ff401888698e0be09a7c9ce1a88f": {
+            "format": "jpg",
+            "id": "9de8ff401888698e0be09a7c9ce1a88f",
+            "name": "00061.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00061.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2fc13aea8ff9cb6203d3d0b0784e8422": {
+            "format": "jpg",
+            "id": "2fc13aea8ff9cb6203d3d0b0784e8422",
+            "name": "00062.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00062.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5762fff878b1459ae3daf72f16303369": {
+            "format": "jpg",
+            "id": "5762fff878b1459ae3daf72f16303369",
+            "name": "00063.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00063.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bbed7f45b189bd9b1ed2f9b62d45a2db": {
+            "format": "jpg",
+            "id": "bbed7f45b189bd9b1ed2f9b62d45a2db",
+            "name": "00064.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00064.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f68d7eb5ac19ebf5c5442bc6b8960181": {
+            "format": "jpg",
+            "id": "f68d7eb5ac19ebf5c5442bc6b8960181",
+            "name": "00065.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00065.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "abb509dd5dedc728cdc0fa4dfd1c49fe": {
+            "format": "jpg",
+            "id": "abb509dd5dedc728cdc0fa4dfd1c49fe",
+            "name": "00066.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00066.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "024af604df992acff151dd36f322a0e0": {
+            "format": "jpg",
+            "id": "024af604df992acff151dd36f322a0e0",
+            "name": "00067.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00067.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5746522a8163fe844ebb86c9e9df32a6": {
+            "format": "jpg",
+            "id": "5746522a8163fe844ebb86c9e9df32a6",
+            "name": "00068.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00068.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "09cbd59f01feba7badcb4e4c94b127b0": {
+            "format": "jpg",
+            "id": "09cbd59f01feba7badcb4e4c94b127b0",
+            "name": "00069.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00069.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "daf286b1825f6e691a3849a1291968fb": {
+            "format": "jpg",
+            "id": "daf286b1825f6e691a3849a1291968fb",
+            "name": "00070.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00070.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ea590073ad1b0a4889ae3f1a0fdbb46d": {
+            "format": "jpg",
+            "id": "ea590073ad1b0a4889ae3f1a0fdbb46d",
+            "name": "00071.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00071.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ff23cedccadc55ab1a5b84fa496d841e": {
+            "format": "jpg",
+            "id": "ff23cedccadc55ab1a5b84fa496d841e",
+            "name": "00072.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00072.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "eda2871e741784c94561081cd7a61430": {
+            "format": "jpg",
+            "id": "eda2871e741784c94561081cd7a61430",
+            "name": "00073.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00073.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "33cdce7d9d86204d77ec31860acaba1b": {
+            "format": "jpg",
+            "id": "33cdce7d9d86204d77ec31860acaba1b",
+            "name": "00074.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00074.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "20851549c13ce484240b801b4d83f79c": {
+            "format": "jpg",
+            "id": "20851549c13ce484240b801b4d83f79c",
+            "name": "00075.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00075.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3f014663f89153707c14797b3f23cdae": {
+            "format": "jpg",
+            "id": "3f014663f89153707c14797b3f23cdae",
+            "name": "00076.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00076.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7874d2e5fd2dcf2a9a6e8b7599168ec9": {
+            "format": "jpg",
+            "id": "7874d2e5fd2dcf2a9a6e8b7599168ec9",
+            "name": "00077.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00077.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0ab0afdcbdb0776f3831a5b99f2b3de4": {
+            "format": "jpg",
+            "id": "0ab0afdcbdb0776f3831a5b99f2b3de4",
+            "name": "00078.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00078.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e534dc0aca205f4b1f49e5c68afb6195": {
+            "format": "jpg",
+            "id": "e534dc0aca205f4b1f49e5c68afb6195",
+            "name": "00079.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00079.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ae8719e642127c970ed9528d660c11a1": {
+            "format": "jpg",
+            "id": "ae8719e642127c970ed9528d660c11a1",
+            "name": "00080.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00080.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ce41a4d3789545c9cef908190039ba84": {
+            "format": "jpg",
+            "id": "ce41a4d3789545c9cef908190039ba84",
+            "name": "00081.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00081.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "37ec70e579c64e4d6843854802555ba7": {
+            "format": "jpg",
+            "id": "37ec70e579c64e4d6843854802555ba7",
+            "name": "00082.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00082.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "96a358cdba5595c6ecb095b1e06844bc": {
+            "format": "jpg",
+            "id": "96a358cdba5595c6ecb095b1e06844bc",
+            "name": "00083.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00083.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e7436f7c82e228ad2c12f51cf898ff4f": {
+            "format": "jpg",
+            "id": "e7436f7c82e228ad2c12f51cf898ff4f",
+            "name": "00084.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00084.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e8df0eee91fb56b0fa376084b27d2c8a": {
+            "format": "jpg",
+            "id": "e8df0eee91fb56b0fa376084b27d2c8a",
+            "name": "00085.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00085.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ad65837ce087c50b73828c06ec5961be": {
+            "format": "jpg",
+            "id": "ad65837ce087c50b73828c06ec5961be",
+            "name": "00086.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00086.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f016e892d51c74563523af99f89ebbf6": {
+            "format": "jpg",
+            "id": "f016e892d51c74563523af99f89ebbf6",
+            "name": "00087.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00087.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "407b7974e1de0eb52e2e560f5badf3e7": {
+            "format": "jpg",
+            "id": "407b7974e1de0eb52e2e560f5badf3e7",
+            "name": "00088.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00088.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b47a4051a32a66688dcfa4b800e07f03": {
+            "format": "jpg",
+            "id": "b47a4051a32a66688dcfa4b800e07f03",
+            "name": "00089.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00089.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f12ac238db210708625e1bf6d02aa0e7": {
+            "format": "jpg",
+            "id": "f12ac238db210708625e1bf6d02aa0e7",
+            "name": "00090.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00090.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6e5c171ba39c1709b3373fa8e687b807": {
+            "format": "jpg",
+            "id": "6e5c171ba39c1709b3373fa8e687b807",
+            "name": "00091.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00091.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8b39fa4ee537d6b7ba3d9fd4eb37f162": {
+            "format": "jpg",
+            "id": "8b39fa4ee537d6b7ba3d9fd4eb37f162",
+            "name": "00092.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00092.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1b0d90c029b735dfc16fd5c0427870c9": {
+            "format": "jpg",
+            "id": "1b0d90c029b735dfc16fd5c0427870c9",
+            "name": "00093.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00093.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bfdb873d4cfcbcf8edc6c6c08c7da1bf": {
+            "format": "jpg",
+            "id": "bfdb873d4cfcbcf8edc6c6c08c7da1bf",
+            "name": "00094.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00094.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "be675ea828fca9f155053fb3a6b444ac": {
+            "format": "jpg",
+            "id": "be675ea828fca9f155053fb3a6b444ac",
+            "name": "00095.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00095.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b5779d55eac377a493cbd2874d299416": {
+            "format": "jpg",
+            "id": "b5779d55eac377a493cbd2874d299416",
+            "name": "00096.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00096.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "adb148a6e381009de94346e1cf18ec5e": {
+            "format": "jpg",
+            "id": "adb148a6e381009de94346e1cf18ec5e",
+            "name": "00097.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00097.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f5bc5e24b5d2a760a6039da56d80a8db": {
+            "format": "jpg",
+            "id": "f5bc5e24b5d2a760a6039da56d80a8db",
+            "name": "00098.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00098.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f14171ecd9e645fb4b7e5a25ae7145bf": {
+            "format": "jpg",
+            "id": "f14171ecd9e645fb4b7e5a25ae7145bf",
+            "name": "00099.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00099.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9cc7e2ff24bde66251c08a86735e665d": {
+            "format": "jpg",
+            "id": "9cc7e2ff24bde66251c08a86735e665d",
+            "name": "00100.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00100.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5e35fc8797fcf4d3db9508a2c4cc6592": {
+            "format": "jpg",
+            "id": "5e35fc8797fcf4d3db9508a2c4cc6592",
+            "name": "00101.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00101.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1867d1727012012b1f65c47acd01d6bd": {
+            "format": "jpg",
+            "id": "1867d1727012012b1f65c47acd01d6bd",
+            "name": "00102.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00102.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c8806ca86c291e023706be1786424139": {
+            "format": "jpg",
+            "id": "c8806ca86c291e023706be1786424139",
+            "name": "00103.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00103.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5a53028854a4b7673c5a6ee31b08fa4b": {
+            "format": "jpg",
+            "id": "5a53028854a4b7673c5a6ee31b08fa4b",
+            "name": "00104.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00104.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e9aadf471c41b250a771f218fb228321": {
+            "format": "jpg",
+            "id": "e9aadf471c41b250a771f218fb228321",
+            "name": "00105.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00105.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f948a9706612ff9345e8c81ba7da69fe": {
+            "format": "jpg",
+            "id": "f948a9706612ff9345e8c81ba7da69fe",
+            "name": "00106.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00106.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ad7e9f20b41f8905ae6c88122ece3b57": {
+            "format": "jpg",
+            "id": "ad7e9f20b41f8905ae6c88122ece3b57",
+            "name": "00107.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00107.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3aff36d7b381ad8d96a4df10235f00f6": {
+            "format": "jpg",
+            "id": "3aff36d7b381ad8d96a4df10235f00f6",
+            "name": "00108.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00108.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ada10b4016f94d1b6dd9644a904134fe": {
+            "format": "jpg",
+            "id": "ada10b4016f94d1b6dd9644a904134fe",
+            "name": "00109.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00109.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "797fe359a7f6ad5e3bfe0b3ddc853dbf": {
+            "format": "jpg",
+            "id": "797fe359a7f6ad5e3bfe0b3ddc853dbf",
+            "name": "00110.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00110.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

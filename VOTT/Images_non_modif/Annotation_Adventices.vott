@@ -1,0 +1,1429 @@
+{
+    "name": "Annotation_Adventices",
+    "securityToken": "Annotation_Adventices Token",
+    "sourceConnection": {
+        "name": "Source_images_non_modifiées",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGQ5MjZkZmNkMDJiMTliNjE4MjVkYjU0YmYyZWE5MGUwYjVjZTE4YTA1MTcyMjFiY2Q3MDdkOGNmZDRiOWRmOTVhYmNjYjc4Yzc4ODcwY2FlNWU4YjQ1YmM0Y2NlN2EwN2Y0NWNlNWExNTMzZmYzM2EyYmQ3NjM3NzViZDhkMmU5MDA1YTIxYWM0ZTk3MGI0OGRmOTE5ZWJiODhkYzkxYiIsIml2IjoiMzU1ZTJkZmY1Nzk5YzU2NDRkNGJkZDlmYTU1MjQzNzY2NWNmODRhMzMxYjMyZGU2In0="
+        },
+        "id": "2pyNlfwJo"
+    },
+    "targetConnection": {
+        "name": "Folder_Annotation",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWI2ZjM0NjMzOTE0NmE3N2IzMzFjYTI1ZmJkZjUzNzVlYTM4MGY1YzU3OWNlNTNmM2Y1MTYzZTNmODAxZWE1MzBmYzE5Y2U1ZTg5NTdmYTFlZDI1ZjA3YTVlZjc1ZTczOWUwM2IyNjFiMTgzYjFlNjgzNjI2ZGYyY2I2NDQyYzkzNGVlZTI3MDY2MWJhMzg1ZGI3ZTJhOWJiYTg2Y2QxOSIsIml2IjoiYTEyY2NmODIyZjZkZmI2ZTlmYmUyMGZjYjBhOTFlMTM2MTkyZGM1NmMzN2MwNjA3In0="
+        },
+        "id": "w6a6SFEU2"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Lavandin",
+            "color": "#5db300"
+        },
+        {
+            "name": "Adventices",
+            "color": "#e81123"
+        }
+    ],
+    "id": "AzuMc3V7E",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2FiMzZhZjRhY2Y3NDQ5YmJkYmI4MDQyNDc4YTM5ZDc1ZTk5NTlkZmJiZDY3NDFhNWEzMDI1YmIyNzhkZWQwZTUxOGFjN2Y3NmE1ZDZmM2M0MGM0YWIzNmYxNjk5OTIwYTVkZmU5NmRmN2E0MGM2ZmYwNWYyZGUwMGEwMTMwYTdhMjhlOGIyMjE5Yzc2YTI3ZmEyMTlmZmEwMmU5NTU1YiIsIml2IjoiYTA2MmY4ZDM2OGJiODNmMWExMGExYTQ2NjI3MTJiMjlhODQwMmE4ZmE5ZWFkZjU4In0="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "e04f0412ed49a9d49e41e948d784baf9",
+    "assets": {
+        "f85573f3ed7c8c3de19882db757b7b3a": {
+            "format": "jpg",
+            "id": "f85573f3ed7c8c3de19882db757b7b3a",
+            "name": "00001.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00001.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4bcedd43a0a4226d9623dfdcb374e62f": {
+            "format": "jpg",
+            "id": "4bcedd43a0a4226d9623dfdcb374e62f",
+            "name": "00002.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00002.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f49ef64e3217cfc2f7b1a61c49ce7310": {
+            "format": "jpg",
+            "id": "f49ef64e3217cfc2f7b1a61c49ce7310",
+            "name": "00003.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00003.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "737ccf712d5bf370c7f3011fd2d4885a": {
+            "format": "jpg",
+            "id": "737ccf712d5bf370c7f3011fd2d4885a",
+            "name": "00004.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00004.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4e7561a23c14209c51b5a2baf36da289": {
+            "format": "jpg",
+            "id": "4e7561a23c14209c51b5a2baf36da289",
+            "name": "00005.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00005.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "110c82f5b0689535995d298b80f45ce2": {
+            "format": "jpg",
+            "id": "110c82f5b0689535995d298b80f45ce2",
+            "name": "00006.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00006.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5c3c428cea4b31e98c8806af2e5687b3": {
+            "format": "jpg",
+            "id": "5c3c428cea4b31e98c8806af2e5687b3",
+            "name": "00007.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00007.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0a3cbbc4e705eeb5f4e0d1838562793b": {
+            "format": "jpg",
+            "id": "0a3cbbc4e705eeb5f4e0d1838562793b",
+            "name": "00008.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00008.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9b43e5632a6fbc23d53a075997ee1bf1": {
+            "format": "jpg",
+            "id": "9b43e5632a6fbc23d53a075997ee1bf1",
+            "name": "00009.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00009.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c516047a32ea8ae2db6d1d20aabbb1d5": {
+            "format": "jpg",
+            "id": "c516047a32ea8ae2db6d1d20aabbb1d5",
+            "name": "00010.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00010.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "676bffc736c477727902809b4a0e513f": {
+            "format": "jpg",
+            "id": "676bffc736c477727902809b4a0e513f",
+            "name": "00011.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00011.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4eb189abaf0c64831ac3f4d2900ffa9a": {
+            "format": "jpg",
+            "id": "4eb189abaf0c64831ac3f4d2900ffa9a",
+            "name": "00012.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00012.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8f77514a25be9ea8304bce42826b5734": {
+            "format": "jpg",
+            "id": "8f77514a25be9ea8304bce42826b5734",
+            "name": "00013.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00013.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "67e0efbc053a77162256e2207d4e5ff8": {
+            "format": "jpg",
+            "id": "67e0efbc053a77162256e2207d4e5ff8",
+            "name": "00014.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00014.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "977057de50c6f5f6813002721ac42a2c": {
+            "format": "jpg",
+            "id": "977057de50c6f5f6813002721ac42a2c",
+            "name": "00015.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00015.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c8088fdc007770109ee93c2903b9644a": {
+            "format": "jpg",
+            "id": "c8088fdc007770109ee93c2903b9644a",
+            "name": "00016.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00016.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7e937650814b518ddd69fd40ede60e0f": {
+            "format": "jpg",
+            "id": "7e937650814b518ddd69fd40ede60e0f",
+            "name": "00017.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00017.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "614428dd3a1b602e2f969d66c0f42521": {
+            "format": "jpg",
+            "id": "614428dd3a1b602e2f969d66c0f42521",
+            "name": "00018.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00018.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "563946caa80f22e7c942ff94331e2802": {
+            "format": "jpg",
+            "id": "563946caa80f22e7c942ff94331e2802",
+            "name": "00019.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00019.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "636130f46c3799b07b35e0c541607350": {
+            "format": "jpg",
+            "id": "636130f46c3799b07b35e0c541607350",
+            "name": "00020.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00020.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "26f5c0ab072d0d64ba5a13d01881ccd5": {
+            "format": "jpg",
+            "id": "26f5c0ab072d0d64ba5a13d01881ccd5",
+            "name": "00021.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00021.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9fb6a8bb60c7030d9000569365eee63a": {
+            "format": "jpg",
+            "id": "9fb6a8bb60c7030d9000569365eee63a",
+            "name": "00022.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00022.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "89b621ac4e32cb7cb4758c00028b231e": {
+            "format": "jpg",
+            "id": "89b621ac4e32cb7cb4758c00028b231e",
+            "name": "00023.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00023.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "543b5a2e0cba36f402a0aa7639cacfb5": {
+            "format": "jpg",
+            "id": "543b5a2e0cba36f402a0aa7639cacfb5",
+            "name": "00024.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00024.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "295abd13ab7da6e8f5d8b79e31b04f00": {
+            "format": "jpg",
+            "id": "295abd13ab7da6e8f5d8b79e31b04f00",
+            "name": "00025.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00025.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "031bbe0706acca33312e47840fae1569": {
+            "format": "jpg",
+            "id": "031bbe0706acca33312e47840fae1569",
+            "name": "00026.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00026.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "19586bf547f392e1d01a7a2b313e38c7": {
+            "format": "jpg",
+            "id": "19586bf547f392e1d01a7a2b313e38c7",
+            "name": "00027.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00027.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e06e740da2415eb36193d9499a3cbdaa": {
+            "format": "jpg",
+            "id": "e06e740da2415eb36193d9499a3cbdaa",
+            "name": "00028.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00028.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2f521879ff6559166eb9e1023ba9d4e1": {
+            "format": "jpg",
+            "id": "2f521879ff6559166eb9e1023ba9d4e1",
+            "name": "00029.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00029.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1c755905a3d486165746ceefc9027030": {
+            "format": "jpg",
+            "id": "1c755905a3d486165746ceefc9027030",
+            "name": "00030.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00030.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "27fa71112848a8052aba44819c477b39": {
+            "format": "jpg",
+            "id": "27fa71112848a8052aba44819c477b39",
+            "name": "00031.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00031.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "97a9deebb6ca9c35e6e5f12126698c6e": {
+            "format": "jpg",
+            "id": "97a9deebb6ca9c35e6e5f12126698c6e",
+            "name": "00032.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00032.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23241e8ff8c397bfbc721782df4d3b97": {
+            "format": "jpg",
+            "id": "23241e8ff8c397bfbc721782df4d3b97",
+            "name": "00033.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00033.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24a3b1ff69834eae98981c49365b4c2f": {
+            "format": "jpg",
+            "id": "24a3b1ff69834eae98981c49365b4c2f",
+            "name": "00034.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00034.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57270e6b291ecf1c232a73b66787dc7d": {
+            "format": "jpg",
+            "id": "57270e6b291ecf1c232a73b66787dc7d",
+            "name": "00035.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00035.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11b8155b24b671ad2aca31ec73b9c51d": {
+            "format": "jpg",
+            "id": "11b8155b24b671ad2aca31ec73b9c51d",
+            "name": "00036.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00036.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16dda3038c97544331ee3088659587d8": {
+            "format": "jpg",
+            "id": "16dda3038c97544331ee3088659587d8",
+            "name": "00037.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00037.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c781a8b580791a3dc1bc4a433e0ec8d8": {
+            "format": "jpg",
+            "id": "c781a8b580791a3dc1bc4a433e0ec8d8",
+            "name": "00038.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00038.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8049e7260e93f99399d534006d9f146": {
+            "format": "jpg",
+            "id": "c8049e7260e93f99399d534006d9f146",
+            "name": "00039.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00039.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbcea3f6fe0124b7580a14d1aa25428b": {
+            "format": "jpg",
+            "id": "fbcea3f6fe0124b7580a14d1aa25428b",
+            "name": "00040.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00040.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0365ef66ae5d724faf477ace4685e7b": {
+            "format": "jpg",
+            "id": "e0365ef66ae5d724faf477ace4685e7b",
+            "name": "00041.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00041.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6df563d1721d415e28171fccc679c85": {
+            "format": "jpg",
+            "id": "b6df563d1721d415e28171fccc679c85",
+            "name": "00042.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00042.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "363696cb1206d9f228464f3e7392f285": {
+            "format": "jpg",
+            "id": "363696cb1206d9f228464f3e7392f285",
+            "name": "00043.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00043.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "387fc483c5f5d7b2225cd244e1369675": {
+            "format": "jpg",
+            "id": "387fc483c5f5d7b2225cd244e1369675",
+            "name": "00044.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00044.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "971379456f99071c130754e8e11c2d24": {
+            "format": "jpg",
+            "id": "971379456f99071c130754e8e11c2d24",
+            "name": "00045.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00045.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe9cb9be937402d099ae37d0be66bd4c": {
+            "format": "jpg",
+            "id": "fe9cb9be937402d099ae37d0be66bd4c",
+            "name": "00046.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00046.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f313f9133e4d286576490545d584d2d2": {
+            "format": "jpg",
+            "id": "f313f9133e4d286576490545d584d2d2",
+            "name": "00047.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00047.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9170d8f11069aa31b13e6aaa9b948e3": {
+            "format": "jpg",
+            "id": "c9170d8f11069aa31b13e6aaa9b948e3",
+            "name": "00048.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00048.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be51027f74eeb02b2170f92a2fee0715": {
+            "format": "jpg",
+            "id": "be51027f74eeb02b2170f92a2fee0715",
+            "name": "00049.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00049.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3771618b8f1075a978cdc91469d320ef": {
+            "format": "jpg",
+            "id": "3771618b8f1075a978cdc91469d320ef",
+            "name": "00050.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00050.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eea5144b7d10f4403c3409d39a9005be": {
+            "format": "jpg",
+            "id": "eea5144b7d10f4403c3409d39a9005be",
+            "name": "00051.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00051.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c7d38f6274b3e917ba18f6c7cc3af04": {
+            "format": "jpg",
+            "id": "5c7d38f6274b3e917ba18f6c7cc3af04",
+            "name": "00052.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00052.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "255e9bada5987f511192323ab3f2036b": {
+            "format": "jpg",
+            "id": "255e9bada5987f511192323ab3f2036b",
+            "name": "00053.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00053.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6dd8924d33ba6732ca711bb5bfe8d02b": {
+            "format": "jpg",
+            "id": "6dd8924d33ba6732ca711bb5bfe8d02b",
+            "name": "00054.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00054.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd04760e0c0ec5f70799fe9ef90e07c6": {
+            "format": "jpg",
+            "id": "fd04760e0c0ec5f70799fe9ef90e07c6",
+            "name": "00055.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00055.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3c237a44a722ff9508af8545c21f211": {
+            "format": "jpg",
+            "id": "b3c237a44a722ff9508af8545c21f211",
+            "name": "00056.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00056.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ed29b1f621806af03a6ed8bfe821d36": {
+            "format": "jpg",
+            "id": "4ed29b1f621806af03a6ed8bfe821d36",
+            "name": "00057.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00057.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98eec3119edfbff277733e12bc6406ec": {
+            "format": "jpg",
+            "id": "98eec3119edfbff277733e12bc6406ec",
+            "name": "00058.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00058.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3bbb220eeee2caa3be3cd2fb2919a82": {
+            "format": "jpg",
+            "id": "f3bbb220eeee2caa3be3cd2fb2919a82",
+            "name": "00059.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00059.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "765cffa000822e2dece324cfc223c81e": {
+            "format": "jpg",
+            "id": "765cffa000822e2dece324cfc223c81e",
+            "name": "00060.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00060.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11c7ed3245b377c45715b2ea78d2f075": {
+            "format": "jpg",
+            "id": "11c7ed3245b377c45715b2ea78d2f075",
+            "name": "00061.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00061.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "506176be3acb96a34e660dcabdff89bf": {
+            "format": "jpg",
+            "id": "506176be3acb96a34e660dcabdff89bf",
+            "name": "00062.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00062.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f436213f5ab938531866902cacd4e49b": {
+            "format": "jpg",
+            "id": "f436213f5ab938531866902cacd4e49b",
+            "name": "00063.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00063.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44a0eb6d9c09c3a06bb162379d6874c6": {
+            "format": "jpg",
+            "id": "44a0eb6d9c09c3a06bb162379d6874c6",
+            "name": "00064.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00064.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f4253968cde2506df84a6e11e3faee5": {
+            "format": "jpg",
+            "id": "1f4253968cde2506df84a6e11e3faee5",
+            "name": "00065.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00065.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c4a0a678fa95d1c1015dbad8d7356be": {
+            "format": "jpg",
+            "id": "5c4a0a678fa95d1c1015dbad8d7356be",
+            "name": "00066.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00066.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23de40df84756947f605597e87ccbb3e": {
+            "format": "jpg",
+            "id": "23de40df84756947f605597e87ccbb3e",
+            "name": "00067.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00067.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e19a7f492fec56a10f618cce97952bf": {
+            "format": "jpg",
+            "id": "5e19a7f492fec56a10f618cce97952bf",
+            "name": "00068.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00068.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3eeaf0bbfbbb11729a0172916732fa00": {
+            "format": "jpg",
+            "id": "3eeaf0bbfbbb11729a0172916732fa00",
+            "name": "00069.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00069.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfd3153b77b945ad308feed2bdeb4b81": {
+            "format": "jpg",
+            "id": "cfd3153b77b945ad308feed2bdeb4b81",
+            "name": "00070.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00070.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0dbea8fb520e64f8dab7aa7d45445d5": {
+            "format": "jpg",
+            "id": "f0dbea8fb520e64f8dab7aa7d45445d5",
+            "name": "00071.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00071.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "319618f24d8aeda54cc2d3529dca5b04": {
+            "format": "jpg",
+            "id": "319618f24d8aeda54cc2d3529dca5b04",
+            "name": "00072.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00072.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50b4ec18a150634576634b01c8045401": {
+            "format": "jpg",
+            "id": "50b4ec18a150634576634b01c8045401",
+            "name": "00073.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00073.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5bb91565b8cacafcd00e9f7765959cbd": {
+            "format": "jpg",
+            "id": "5bb91565b8cacafcd00e9f7765959cbd",
+            "name": "00074.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00074.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "486bf1b92d7464baa5d0834f07d9e1ac": {
+            "format": "jpg",
+            "id": "486bf1b92d7464baa5d0834f07d9e1ac",
+            "name": "00075.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00075.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5be6b141d33fd7b1c5f00f94b68323d9": {
+            "format": "jpg",
+            "id": "5be6b141d33fd7b1c5f00f94b68323d9",
+            "name": "00076.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00076.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "387906316925b45f0d759ca234aba380": {
+            "format": "jpg",
+            "id": "387906316925b45f0d759ca234aba380",
+            "name": "00077.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00077.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a83bc2f475a9d39d17f872c7e8fc737": {
+            "format": "jpg",
+            "id": "8a83bc2f475a9d39d17f872c7e8fc737",
+            "name": "00078.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00078.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39ade44bb86a73e18a494947f379b1cf": {
+            "format": "jpg",
+            "id": "39ade44bb86a73e18a494947f379b1cf",
+            "name": "00079.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00079.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9bf6ab0f3fc99d58ca6b33ee561de99c": {
+            "format": "jpg",
+            "id": "9bf6ab0f3fc99d58ca6b33ee561de99c",
+            "name": "00080.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00080.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5414dfb9537273c4cd5fcdb36d80a01d": {
+            "format": "jpg",
+            "id": "5414dfb9537273c4cd5fcdb36d80a01d",
+            "name": "00081.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00081.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "283aa9df9376f3625bfe12648d873add": {
+            "format": "jpg",
+            "id": "283aa9df9376f3625bfe12648d873add",
+            "name": "00082.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00082.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a38960fcf76aad28a3790392cda8d4ff": {
+            "format": "jpg",
+            "id": "a38960fcf76aad28a3790392cda8d4ff",
+            "name": "00083.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00083.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "137053223f52c00007f934b01384cb2e": {
+            "format": "jpg",
+            "id": "137053223f52c00007f934b01384cb2e",
+            "name": "00084.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00084.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48e614db8ea013cb39e0599cb4c25173": {
+            "format": "jpg",
+            "id": "48e614db8ea013cb39e0599cb4c25173",
+            "name": "00085.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00085.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e9efb138b54f7b981049b8cf1f13939": {
+            "format": "jpg",
+            "id": "1e9efb138b54f7b981049b8cf1f13939",
+            "name": "00086.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00086.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4ef454008b29f2ffb044472a2c8f064": {
+            "format": "jpg",
+            "id": "e4ef454008b29f2ffb044472a2c8f064",
+            "name": "00087.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00087.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bdd75a8d3730f668485d27762d8dedc2": {
+            "format": "jpg",
+            "id": "bdd75a8d3730f668485d27762d8dedc2",
+            "name": "00088.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00088.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "625bdc75dfd1fc992adc9b47b0a2d2b7": {
+            "format": "jpg",
+            "id": "625bdc75dfd1fc992adc9b47b0a2d2b7",
+            "name": "00089.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00089.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7907534bac2b81f978baaadb8199b20f": {
+            "format": "jpg",
+            "id": "7907534bac2b81f978baaadb8199b20f",
+            "name": "00090.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00090.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1e352e073d882ee9ce4a91d64bab4f9": {
+            "format": "jpg",
+            "id": "c1e352e073d882ee9ce4a91d64bab4f9",
+            "name": "00091.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00091.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db1a31197577565ac54f0bd0e9c094d7": {
+            "format": "jpg",
+            "id": "db1a31197577565ac54f0bd0e9c094d7",
+            "name": "00092.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00092.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eebf26254bcd7fbefbb08e2fdafe05a3": {
+            "format": "jpg",
+            "id": "eebf26254bcd7fbefbb08e2fdafe05a3",
+            "name": "00093.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00093.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5016d3535f2989aa7e55d3fe486b7f2": {
+            "format": "jpg",
+            "id": "d5016d3535f2989aa7e55d3fe486b7f2",
+            "name": "00094.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00094.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9127657062abc45df7ced25d4bc52917": {
+            "format": "jpg",
+            "id": "9127657062abc45df7ced25d4bc52917",
+            "name": "00095.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00095.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d8fc9788340ef5aa0b9c7927ab75342": {
+            "format": "jpg",
+            "id": "6d8fc9788340ef5aa0b9c7927ab75342",
+            "name": "00096.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00096.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c76bf3ddf60432f2f64aa289a851637e": {
+            "format": "jpg",
+            "id": "c76bf3ddf60432f2f64aa289a851637e",
+            "name": "00097.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00097.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "eeb5a6f818242fac6b19d8fa62a0b6bb": {
+            "format": "jpg",
+            "id": "eeb5a6f818242fac6b19d8fa62a0b6bb",
+            "name": "00098.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00098.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "597a4681199b0468abf994060cd8bdec": {
+            "format": "jpg",
+            "id": "597a4681199b0468abf994060cd8bdec",
+            "name": "00099.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00099.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10078846f71f7b0e7c44d4cb545c4d17": {
+            "format": "jpg",
+            "id": "10078846f71f7b0e7c44d4cb545c4d17",
+            "name": "00100.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00100.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9bbfdb2da49587b39c29669b758f769e": {
+            "format": "jpg",
+            "id": "9bbfdb2da49587b39c29669b758f769e",
+            "name": "00101.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00101.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61183c261da15e5dad70ccd723a1e1b8": {
+            "format": "jpg",
+            "id": "61183c261da15e5dad70ccd723a1e1b8",
+            "name": "00102.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00102.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd01f29d4c9f1eee0f78e8f4d69ebb2d": {
+            "format": "jpg",
+            "id": "cd01f29d4c9f1eee0f78e8f4d69ebb2d",
+            "name": "00103.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00103.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c4fd9241d7ee332a672c2a3ac14e1856": {
+            "format": "jpg",
+            "id": "c4fd9241d7ee332a672c2a3ac14e1856",
+            "name": "00104.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00104.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "494898ded93b7cc53c44d9b5105efd06": {
+            "format": "jpg",
+            "id": "494898ded93b7cc53c44d9b5105efd06",
+            "name": "00105.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00105.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1b762ce4027140f4cb08dd66ef7a8c3": {
+            "format": "jpg",
+            "id": "a1b762ce4027140f4cb08dd66ef7a8c3",
+            "name": "00106.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00106.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cdb7b9068a5060a02198c1e6bbe3989f": {
+            "format": "jpg",
+            "id": "cdb7b9068a5060a02198c1e6bbe3989f",
+            "name": "00107.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00107.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d08a0895144c25d87b4e8431827dd14": {
+            "format": "jpg",
+            "id": "3d08a0895144c25d87b4e8431827dd14",
+            "name": "00108.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00108.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bc98092c21c08797e1b9b37c8b28e53": {
+            "format": "jpg",
+            "id": "3bc98092c21c08797e1b9b37c8b28e53",
+            "name": "00109.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00109.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e26abaae272a1daab5f32fa0ae0d173": {
+            "format": "jpg",
+            "id": "9e26abaae272a1daab5f32fa0ae0d173",
+            "name": "00110.jpg",
+            "path": "file:/home/hugo/Projet3a/Annotations/Images_non_modif/00110.jpg",
+            "size": {
+                "width": 3280,
+                "height": 2464
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2400406093801cdc156083f45b8446a3": {
+            "format": "jpg",
+            "id": "2400406093801cdc156083f45b8446a3",
+            "name": "00030.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00030.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "37ec70e579c64e4d6843854802555ba7": {
+            "format": "jpg",
+            "id": "37ec70e579c64e4d6843854802555ba7",
+            "name": "00082.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00082.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c261b09bfe067bd717e9eb16480df033": {
+            "format": "jpg",
+            "id": "c261b09bfe067bd717e9eb16480df033",
+            "name": "00012.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00012.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "57e371eda64f3f190e1d3c9aee5b4e24": {
+            "format": "jpg",
+            "id": "57e371eda64f3f190e1d3c9aee5b4e24",
+            "name": "00046.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00046.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e04f0412ed49a9d49e41e948d784baf9": {
+            "format": "jpg",
+            "id": "e04f0412ed49a9d49e41e948d784baf9",
+            "name": "00045.jpg",
+            "path": "file:/home/draker/TrainYourOwnYOLO/VOTT/Images_non_modif/00045.jpg",
+            "size": {
+                "width": 4896,
+                "height": 2752
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}
